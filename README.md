@@ -122,7 +122,7 @@ python manage-p2.py monitor
 We have implemented two optional features that have been explained earlier:
 
 - **`Comand monitor`**: Displays the current status of the VMs on the screen.
-- **`Start and Stop of a MV`**: Allows the user to start or stop a specific VM by specifying its name in the command.
+- **`Start and Stop of a VM`**: Allows the user to start or stop a specific VM by specifying its name in the command.
 
 ### **5. Configuration Files**
 
